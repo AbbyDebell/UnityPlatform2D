@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{4D5B60EF-A1F7-379B-A1DB-D370FFB3A7BF}</ProjectGuid>
+    <ProjectGuid>{C31DBACF-E0A3-0E44-7A9B-131F4A274B78}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,10 +64,10 @@
     <Compile Include="Assets\Scripts\Player.cs" />
     <None Include="Assets\Assets\Scene\bulkhead-walls-files\bulkhead-walls-files\license.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>F:/Abby/Documents/SCIFI/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>F:/Abby/Documents/GitHub/UnityPlatform2D/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>F:/Abby/Documents/SCIFI/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>F:/Abby/Documents/GitHub/UnityPlatform2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
