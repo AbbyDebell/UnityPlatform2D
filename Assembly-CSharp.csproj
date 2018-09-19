@@ -61,17 +61,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BetterJum.cs" />
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CollisionTrigger.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <None Include="Assets\Assets\Scene\bulkhead-walls-files\bulkhead-walls-files\license.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/liamdebell/Documents/GitHub/UnityPlatform2D/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/liamdebell/Documents/GitHub/UnityPlatform2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/liamdebell/Documents/GitHub/UnityPlatform2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/liamdebell/Documents/GitHub/UnityPlatform2D/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/liamdebell/Documents/GitHub/UnityPlatform2D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
